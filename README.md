@@ -12,11 +12,8 @@ This EMR project is a relational database system designed to handle:
 - 📅 Appointments & follow-ups  
 - 💊 Prescriptions & medicine inventory  
 - 🧪 Lab reports  
-- 💳 Billing & payments  
-- 🏥 Surgery tracking  
+- 💳 Billing & payments   
 
 Built with a fully normalized **BCNF schema**, it enables secure, efficient data handling and powerful medical analytics using SQL.
 
 ---
-
-🎯 Ideal for students, developers, or healthcare teams exploring health-tech solutions.
